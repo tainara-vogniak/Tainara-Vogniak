@@ -21,6 +21,6 @@
 ## 📧 Como entrar em contato comigo
 
 - 📬 Email: [vogniaktainara11@gmail.com]
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tainara-vogniak-a91a8624a/)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/tainara-vogniak-a91a8624a/]
 
 Obrigada por ler até aqui!

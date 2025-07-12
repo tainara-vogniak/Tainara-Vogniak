@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 - 🌱 Atualmente estou cursando **Python 480h - Entra21**
-- 📚 Estudando **Automação + Webscraping + Banco de Dados + HTML/CSS**
+- 📚 Estudando **HTML/CSS/JavaScript/Flutter**
 - 🔭 No momento, meu foco está em **Desenvolvimento Web**
 
 ## 🔥 Curiosidades sobre mim
